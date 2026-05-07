@@ -566,8 +566,8 @@ nav a:hover::after {
     position: relative;
 }
 /* Card 2 — Color */
-#card-2 .slider-before img { object-position: left center; }
-#card-2 .slider-after img  { object-position: center 20%; }
+#card-2 .slider-before img { object-position: center center; }
+#card-2 .slider-after img  { object-position: center center; }
 
 /* Labels */
 .label-before,

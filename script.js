@@ -77,7 +77,7 @@ document.querySelectorAll('.slider-reveal').forEach(slider => {
 
     function getLimits() {
         if (slider.closest('#card-1')) return { min: 17, max: 72 };
-        if (slider.closest('#card-2')) return { min: 32, max: 59 };
+        if (slider.closest('#card-2')) return { min: 32, max: 55 };
         return { min: 15, max: 85 };
     }
 
